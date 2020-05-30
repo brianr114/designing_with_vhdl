@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat May 30 11:58:49 2020
+# Process ID: 12772
+# Current directory: C:/Development/designing_with_vhdl/02_using_concurrent_statements/concurrency.runs/synth_1
+# Command line: vivado.exe -log LED_manager_tb.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source LED_manager_tb.tcl
+# Log file: C:/Development/designing_with_vhdl/02_using_concurrent_statements/concurrency.runs/synth_1/LED_manager_tb.vds
+# Journal file: C:/Development/designing_with_vhdl/02_using_concurrent_statements/concurrency.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source LED_manager_tb.tcl -notrace

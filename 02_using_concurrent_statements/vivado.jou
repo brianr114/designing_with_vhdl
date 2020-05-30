@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat May 30 12:19:55 2020
+# Process ID: 15756
+# Current directory: C:/Development/designing_with_vhdl/02_using_concurrent_statements
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent19588 C:\Development\designing_with_vhdl\02_using_concurrent_statements\concurrency.xpr
+# Log file: C:/Development/designing_with_vhdl/02_using_concurrent_statements/vivado.log
+# Journal file: C:/Development/designing_with_vhdl/02_using_concurrent_statements\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Development/designing_with_vhdl/02_using_concurrent_statements/concurrency.xpr
+update_compile_order -fileset sources_1
