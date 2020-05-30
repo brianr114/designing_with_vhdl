@@ -32,11 +32,11 @@ use IEEE.NUMERIC_STD.ALL;
 --use UNISIM.VComponents.all;
 
 entity register8 is
-    Port ( clock : in STD_LOGIC;
-           reset : in STD_LOGIC;
-           enable : in STD_LOGIC;
-           data_in : in STD_LOGIC_VECTOR (7 downto 0);
-           data_out : out STD_LOGIC_VECTOR (7 downto 0));
+    Port ( clock    : in    STD_LOGIC;
+           reset    : in    STD_LOGIC;
+           enable   : in    STD_LOGIC;
+           data_in  : in    STD_LOGIC_VECTOR (7 downto 0);
+           data_out : out   STD_LOGIC_VECTOR (7 downto 0));
 end register8;
 
 architecture Behavioral of register8 is
