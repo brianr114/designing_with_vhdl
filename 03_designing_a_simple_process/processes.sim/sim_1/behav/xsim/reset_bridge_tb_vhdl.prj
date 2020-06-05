@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../processes.srcs/sources_1/new/reset_bridge.vhd" \
+"../../../../../training/processes/lab/KCU105/reset_bridge_tb.vhd" \
+
+# Do not sort compile order
+nosort

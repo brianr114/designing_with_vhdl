@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Jun  5 16:04:38 2020
+# Process ID: 4884
+# Current directory: C:/Development/designing_with_vhdl/03_designing_a_simple_process/processes.runs/synth_1
+# Command line: vivado.exe -log reset_bridge.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source reset_bridge.tcl
+# Log file: C:/Development/designing_with_vhdl/03_designing_a_simple_process/processes.runs/synth_1/reset_bridge.vds
+# Journal file: C:/Development/designing_with_vhdl/03_designing_a_simple_process/processes.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source reset_bridge.tcl -notrace
